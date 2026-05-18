@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-05-18",
+  "authority": "city-of-edinburgh-council",
+  "count": 24,
+  "applications": [
+    {
+      "ref": "26/01245/FUL",
+      "address": "St James Quarter, Leith Street, Edinburgh EH1 3SS",
+      "postcode": "EH1 3SS",
+      "proposal": "St James Quarter tenant mix reconfiguration and additional F&B accommodation in the Nuveen-owned retail and leisure flagship",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/04/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/01198/FUL",
+      "address": "Edinburgh Park, South Gyle Crescent, Edinburgh EH12 9EB",
+      "postcode": "EH12 9EB",
+      "proposal": "Edinburgh Park Parabola Phase 4 commercial scheme, new Grade A office accommodation supporting Lloyds Banking Group and Aberdeen Standard Investments-anchored business park",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "28/03/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/01102/FUL",
+      "address": "Edinburgh BioQuarter, Little France Crescent, Edinburgh EH16 4UX",
+      "postcode": "EH16 4UX",
+      "proposal": "Edinburgh BioQuarter Phase 3 life sciences expansion, new wet-lab and office accommodation adjacent to Royal Infirmary and University of Edinburgh medical school",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "15/03/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/01045/COU",
+      "address": "Charlotte Square, Edinburgh EH2 4HQ",
+      "postcode": "EH2 4HQ",
+      "proposal": "Charlotte Square Georgian townhouse conversion, change of use from office to boutique hotel accommodation retaining listed-building character",
+      "type": "COU",
+      "status": "Pending",
+      "received": "05/03/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/00978/FUL",
+      "address": "Quartermile, Lauriston Place, Edinburgh EH3 9DB",
+      "postcode": "EH3 9DB",
+      "proposal": "Quartermile commercial scheme, refurbishment of former Royal Infirmary site Grade A office accommodation supporting professional services and tech tenant base",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "20/02/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/00892/FUL",
+      "address": "Granton Waterfront, West Granton Road, Edinburgh EH5 1QE",
+      "postcode": "EH5 1QE",
+      "proposal": "Granton Waterfront regeneration Phase 2, mixed-use development comprising residential, ground-floor retail and F&B accommodation on the former Forth Ports estate",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "06/02/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/00802/FUL",
+      "address": "Leith Walk, Edinburgh EH6 5HD",
+      "postcode": "EH6 5HD",
+      "proposal": "Leith Walk mixed-use scheme adjacent to Trams to Newhaven extension, ground-floor commercial accommodation and managed residential above",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "22/01/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/00712/FUL",
+      "address": "Fountainbridge, Edinburgh EH3 9QH",
+      "postcode": "EH3 9QH",
+      "proposal": "Fountainbridge regeneration scheme, new mixed-use development comprising office, residential and ground-floor F&B in the former brewery quarter",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "08/01/2026",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "26/00645/COU",
+      "address": "Cowgate, Edinburgh EH1 1JR",
+      "postcode": "EH1 1JR",
+      "proposal": "Cowgate central Old Town change of use, conversion of upper floors of independent retail unit to short-let visitor accommodation under HMO licence conditions",
+      "type": "COU",
+      "status": "Pending",
+      "received": "20/12/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/02892/FUL",
+      "address": "Princes Street, Edinburgh EH2 2YS",
+      "postcode": "EH2 2YS",
+      "proposal": "Princes Street central retail unit refurbishment and shopfront alterations on the prime Edinburgh retail spine adjacent to St James Quarter",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "05/12/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/02745/FUL",
+      "address": "Haymarket, Edinburgh EH12 5HD",
+      "postcode": "EH12 5HD",
+      "proposal": "Haymarket office scheme expansion, new Grade A office accommodation adjacent to Haymarket railway station serving the West End professional services cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/11/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/02612/COU",
+      "address": "Marchmont Road, Edinburgh EH9 1HF",
+      "postcode": "EH9 1HF",
+      "proposal": "Marchmont change of use of large family dwelling to licensed HMO accommodation under the Edinburgh HMO licensing regime, common in the EH9 student belt",
+      "type": "COU",
+      "status": "Approved",
+      "received": "02/11/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/02478/FUL",
+      "address": "Morningside Road, Edinburgh EH10 4DA",
+      "postcode": "EH10 4DA",
+      "proposal": "Morningside Road affluent retail parade refurbishment, frontage works and change of use of upper floors to managed serviced offices",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/10/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/02345/FUL",
+      "address": "Stockbridge Market, Saunders Street, Edinburgh EH3 6TQ",
+      "postcode": "EH3 6TQ",
+      "proposal": "Stockbridge boutique retail parade refurbishment, frontage works and shopfront upgrades supporting the EH3 affluent F&B and independent retail cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "04/10/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/02212/FUL",
+      "address": "Portobello High Street, Edinburgh EH15 1JG",
+      "postcode": "EH15 1JG",
+      "proposal": "Portobello coastal regeneration scheme, new ground-floor independent retail and F&B accommodation with managed residential above on the EH15 seafront",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "20/09/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/02078/FUL",
+      "address": "Ocean Terminal, Leith, Edinburgh EH6 6JJ",
+      "postcode": "EH6 6JJ",
+      "proposal": "Ocean Terminal Leith leisure and retail scheme, anchor unit reconfiguration and new F&B accommodation supporting the Trams to Newhaven extension catchment",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "06/09/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01945/FUL",
+      "address": "George Street, Edinburgh EH2 2LR",
+      "postcode": "EH2 2LR",
+      "proposal": "George Street premium retail unit refurbishment and Class E reconfiguration on the New Town heritage retail spine",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "23/08/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01812/FUL",
+      "address": "Tollcross, Edinburgh EH3 9QY",
+      "postcode": "EH3 9QY",
+      "proposal": "Tollcross mixed-use regeneration scheme, new ground-floor leisure and F&B with managed residential above on the EH3 entertainment district frontage",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "09/08/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01678/FUL",
+      "address": "St Andrew Square, Edinburgh EH2 1AF",
+      "postcode": "EH2 1AF",
+      "proposal": "St Andrew Square Grade A office building refurbishment supporting the financial services cluster including Standard Life Aberdeen and the former RBS HQ",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "26/07/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01545/FUL",
+      "address": "Newhaven Road, Newhaven, Edinburgh EH6 4ER",
+      "postcode": "EH6 4ER",
+      "proposal": "Newhaven mixed-use scheme adjacent to the Trams to Newhaven terminus, new ground-floor commercial accommodation supporting the Leith waterfront catchment",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "12/07/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01412/FUL",
+      "address": "Old Town, Grassmarket, Edinburgh EH1 2HJ",
+      "postcode": "EH1 2HJ",
+      "proposal": "Grassmarket heritage hospitality scheme, refurbishment of listed waterfront pub and boutique hotel accommodation in the Old Town Royal Mile catchment",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "29/06/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01278/FUL",
+      "address": "Heriot-Watt Research Park, Riccarton, Edinburgh EH14 4AS",
+      "postcode": "EH14 4AS",
+      "proposal": "Heriot-Watt Research Park expansion, new managed workspace and lab accommodation supporting the engineering, robotics and AI research cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "15/06/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01145/FUL",
+      "address": "RBS Gogarburn, Edinburgh EH12 1HQ",
+      "postcode": "EH12 1HQ",
+      "proposal": "RBS Gogarburn campus ancillary scheme, refurbishment of Grade A office accommodation supporting Royal Bank of Scotland HQ and surrounding business park",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "01/06/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    },
+    {
+      "ref": "25/01012/FUL",
+      "address": "Bruntsfield Place, Bruntsfield, Edinburgh EH10 4HJ",
+      "postcode": "EH10 4HJ",
+      "proposal": "Bruntsfield Place professional services office building refurbishment, mid-rise Grade B office accommodation serving the affluent EH10 professional firm cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/05/2025",
+      "portal": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/"
+    }
+  ]
+}

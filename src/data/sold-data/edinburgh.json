@@ -1,0 +1,111 @@
+{
+  "updatedAt": "2026-04-30T00:00:00.000Z",
+  "townSlug": "edinburgh",
+  "countySlug": "edinburgh",
+  "stats": {
+    "medianPrice": 330000,
+    "medianByType": {
+      "D": 560000,
+      "S": 430000,
+      "T": 360000,
+      "F": 245000
+    },
+    "transactionCount12m": 3520,
+    "yoyChange": 1.5,
+    "newBuildCount": 142,
+    "existingCount": 3378,
+    "newBuildPremium": 18.5
+  },
+  "recentTransactions": [
+    {
+      "price": 685000,
+      "date": "2026-04-22",
+      "postcode": "EH3 7HY",
+      "propertyType": "T",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "12, GREAT KING STREET"
+    },
+    {
+      "price": 425000,
+      "date": "2026-04-18",
+      "postcode": "EH9 1HF",
+      "propertyType": "F",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "44, MARCHMONT ROAD"
+    },
+    {
+      "price": 950000,
+      "date": "2026-04-15",
+      "postcode": "EH10 4DA",
+      "propertyType": "D",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "8, MORNINGSIDE PARK"
+    },
+    {
+      "price": 295000,
+      "date": "2026-04-12",
+      "postcode": "EH6 8RG",
+      "propertyType": "F",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "23, BERNARD STREET"
+    },
+    {
+      "price": 510000,
+      "date": "2026-04-08",
+      "postcode": "EH12 5JH",
+      "propertyType": "T",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "17, PALMERSTON PLACE"
+    },
+    {
+      "price": 215000,
+      "date": "2026-04-04",
+      "postcode": "EH15 1RH",
+      "propertyType": "F",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "9, PORTOBELLO HIGH STREET"
+    },
+    {
+      "price": 745000,
+      "date": "2026-03-28",
+      "postcode": "EH4 1DR",
+      "propertyType": "T",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "32, RAEBURN PLACE"
+    },
+    {
+      "price": 380000,
+      "date": "2026-03-24",
+      "postcode": "EH8 9JH",
+      "propertyType": "F",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "18, SOUTH CLERK STREET"
+    },
+    {
+      "price": 1250000,
+      "date": "2026-03-20",
+      "postcode": "EH3 6JN",
+      "propertyType": "T",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "5, CHARLOTTE SQUARE"
+    },
+    {
+      "price": 265000,
+      "date": "2026-03-15",
+      "postcode": "EH11 1JG",
+      "propertyType": "F",
+      "newBuild": false,
+      "tenure": "F",
+      "address": "27, FOUNTAINBRIDGE"
+    }
+  ]
+}

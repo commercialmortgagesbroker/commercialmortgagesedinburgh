@@ -1,0 +1,47 @@
+# Commercial Mortgages Edinburgh
+> Specialist commercial mortgage broker for Edinburgh, the Lothians and central Scotland. Financial services office, life sciences (Edinburgh BioQuarter), retail, semi-commercial, HMO portfolio, hotel and hospitality and trading-business commercial mortgages from a 90+ lender panel including Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays and Santander. Indicative terms in 48 hours, completion typically 4 to 8 weeks. Scottish legal architecture (standard security, Registers of Scotland) handled end-to-end.
+
+## Content Hierarchy
+- /: Homepage with Edinburgh market snapshot, live planning pipeline, calculator, lender panel, area grid, case studies, testimonials, FAQ
+- /services/: Commercial mortgage product hub
+- /property-types/: Coverage by sector
+- /areas/: Edinburgh sub-areas with commercial planning and market data
+- /calculator/: Commercial mortgage repayment and LTV calculator
+- /blog/: Market commentary and rate insights
+- /case-studies/: Anonymised real deals
+- /about/: Broker bio and credentials
+- /how-it-works/: 5-step process
+- /contact/: Enquiry form
+- /faq/: Frequently asked questions
+
+## Key Facts
+- Service: Commercial mortgages (standard security under Scottish law, not English mortgage)
+- Coverage: Edinburgh, East Lothian, West Lothian, Midlothian, wider central Scotland
+- Facility size: £150K to £10M
+- Term: 5 to 25 years
+- LTV: typically 65 to 75% (semi-commercial up to 75%, hotel and trading-business 60 to 70%, life sciences 60 to 70%)
+- Rates (mid-2026): 6.0 to 9.0% pa
+- Lender panel: 90+ lenders
+- Decision time: indicative terms in 48 hours
+- Named lenders: Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays, Santander, plus 80+ others including Clydesdale Bank / Virgin Money UK (Scottish presence) and Bank of Scotland
+
+## Scotland-specific notes
+- Property registration: Registers of Scotland (RoS), NOT HM Land Registry
+- Security: standard security under the Conveyancing and Feudal Reform (Scotland) Act 1970, NOT English-law mortgage
+- Conveyancing: handled by Scottish solicitors, missives exchanged before contract concluded
+- Local authority: City of Edinburgh Council unitary
+- Devolved planning regime under Scottish Government, Affordable Housing Investment Programme considerations on mixed-use schemes
+
+## Data
+Each area page contains live local market data:
+- Registers of Scotland sold-data signal (residential transaction volume as market temperature)
+- Live commercial planning pipeline from City of Edinburgh Council Public Access portal
+- Named regeneration zones and business districts (St James Quarter, Edinburgh Park, Edinburgh BioQuarter, Quartermile, Granton Waterfront)
+- Named demand anchors (RBS Gogarburn, Lloyds Banking Group, Standard Life Aberdeen, University of Edinburgh ~45K students, Heriot-Watt, Napier, Edinburgh Royal Infirmary)
+- Lender appetite by sector
+
+## Contact
+- Phone: 07595 366094
+- Email: enquiries@commercialmortgagesedinburgh.co.uk
+- Site: https://commercialmortgagesedinburgh.co.uk
+- Network parent: https://commercialmortgagesbroker.co.uk
