@@ -78,7 +78,7 @@ export interface HomeContent {
   };
   testimonials: {
     eyebrow: string;
-    items: Array<{ quote: string; name: string; company: string }>;
+    items: Array<{ type: string; quote: string }>;
   };
   faqs: Array<{ question: string; answer: string }>;
   finalCta: {
@@ -148,26 +148,23 @@ export const homeContent: HomeContent = {
   },
 
   testimonials: {
-    eyebrow: "Recent client feedback",
+    eyebrow: "Indicative scenarios",
     items: [
       {
+        type: "Portfolio Refinance",
         quote:
-          "Refinancing six HMO blocks across Marchmont and Newington let to University of Edinburgh students, off a maturing 5-year fix. They benchmarked nine lenders, narrowed to three, and got us 72% LTV at 7.15% on a 5-year fix inside a 25-year term. ICR comfortably 148%. The team handled the Scottish HMO licence references and the standard security under Scots law end-to-end. Took six weeks start to finish.",
-        name: "C. MacLeod",
-        company: "Portfolio landlord, Marchmont, Edinburgh",
+          "An indicative portfolio refinance scenario: six HMO blocks across Marchmont and Newington let to University of Edinburgh students, with nine lenders benchmarked down to three, securing 72% LTV at 7.15% on a 5-year fix inside a 25-year term (ICR 148%), completing in six weeks. The team handled the Scottish HMO licence references and the standard security under Scots law end-to-end.",
       },
       {
+        type: "First-Time Freeholder Purchase",
         quote:
-          "First-time freeholder acquiring a heritage boutique hotel off the Royal Mile in the Old Town on the Festival footfall. They told me upfront which commercial lenders would and would not touch a single-asset trading business with Scottish covenant, walked the missives timeline with our solicitor, and saved me three weeks of chasing. Completed inside seven weeks with a hospitality-active challenger.",
-        name: "F. Sinclair",
-        company: "Hospitality operator, Old Town, Edinburgh",
+          "An indicative first-time-freeholder scenario: acquiring a heritage boutique hotel off the Royal Mile in the Old Town on the Festival footfall, with upfront guidance on which lenders would touch a single-asset trading business with Scottish covenant, completing inside seven weeks with a hospitality-active challenger.",
       },
       {
+        type: "Bank-Beat Refinance",
         quote:
-          "We had been quoted 8.1% by our own bank to refinance an Edinburgh Park Grade A office investment let to a Lloyds Banking Group covenant on the Parabola masterplan. The team placed it at 6.85% with a high-street commercial desk, 65% LTV, 15-year term, and walked us through the ICR model so the deal was sound before legals. No surprises at credit committee, and they coordinated the Scottish solicitor panel without a hitch.",
-        name: "A. Robertson",
-        company: "Office investor, Edinburgh Park, Edinburgh",
-      },
+          "An indicative refinance scenario: Edinburgh Park Grade A office investment let to a Lloyds Banking Group covenant on the Parabola masterplan, improving on the client's own-bank quote of 8.1% to 6.85% with a high-street commercial desk, 65% LTV over a 15-year term, with full ICR modelling completed before legals.",
+      }
     ],
   },
 
