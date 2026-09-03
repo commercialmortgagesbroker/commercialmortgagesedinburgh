@@ -26,7 +26,7 @@ export default function CaseStudiesPage() {
             </h1>
             <p className="mt-6 text-xl leading-relaxed text-gray-300">
               Representative {loc}, Lothians and central-Scotland commercial
-              mortgages we&apos;ve placed recently across Scottish financial
+              mortgages illustrative of the deals we structure across Scottish financial
               services tenant offices on Lothian Road, Charlotte Square and
               Edinburgh Park, Edinburgh BioQuarter and Roslin life sciences
               SME owner-occupier, Marchmont, Bruntsfield and Southside HMO
@@ -74,14 +74,16 @@ export default function CaseStudiesPage() {
                         </li>
                       ))}
                     </ul>
+                    <p className="mt-4 border-t border-gray-100 pt-3 text-[11px] uppercase tracking-wider text-gray-400">
+                      Illustrative example &mdash; not a completed transaction
+                    </p>
                   </div>
                 </ScrollReveal>
               ))}
             </div>
             <p className="mt-8 text-xs text-gray-500">
-              Case studies are representative examples. Names and identifying
-              detail are anonymised at the borrower&apos;s request. Lender
-              attributions reflect deals placed within the past 24 months.
+              These case studies are illustrative examples built from typical deal structures and are not records of specific completed transactions. Names and identifying detail are composite and anonymised. Lender
+              attributions reflect appetite active on the panel within the past 24 months.
               Standard security under the Conveyancing and Feudal Reform
               (Scotland) Act 1970, registered with Registers of Scotland on
               every Scottish file.

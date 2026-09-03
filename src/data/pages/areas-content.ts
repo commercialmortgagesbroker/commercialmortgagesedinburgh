@@ -101,7 +101,7 @@ export interface AreasHubContent {
 
 export const areasHubContent: AreasHubContent = {
   hero: {
-    eyebrow: "Where we lend",
+    eyebrow: "Where we arrange finance",
     h1: "Commercial Mortgages Edinburgh by Area",
     lede:
       "From the World Heritage Old Town and the Royal Mile in EH1, through the Charlotte Square and St Andrew Square financial-services core in EH2 and EH3, out to Edinburgh Park and South Gyle in EH12 and the BioQuarter at Little France in EH16, the Edinburgh commercial mortgage market is not one market, it is twelve. Each district carries its own dominant property type, its own typical facility size and its own lender shortlist. Every area page below stitches together the live City of Edinburgh Council public access pipeline, Registers of Scotland transaction temperature and the named lenders most likely to fund a deal there.",
@@ -214,7 +214,7 @@ export const areaDetails: Record<string, AreaDetail> = {
           'Up to 70% LTV on operator-led trading-business hospitality with established EBITDA cover. Royal Mile boutique hotel with 12 to 24 months of operator track record prices best at 60 to 65% LTV at around 7.0 to 7.5% pa with <strong>Cynergy Bank</strong>, Allica Bank or HTB. Grassmarket listed pub freehold caps at 65 to 70% with Bank of Scotland, Clydesdale Bank or Virgin Money UK on the Scottish covenant. The binding constraint is almost always EBITDA cover on the trading business, not headline LTV. LBTT applies at the Scottish non-residential rates on the freehold purchase.',
       },
       {
-        question: "Can we fund a Cowgate upper-floor short-let visitor accommodation scheme?",
+        question: "Can you arrange finance for a Cowgate upper-floor short-let visitor accommodation scheme?",
         answer:
           'Yes, through <a href="/services/commercial-bridge-to-let">bridge-to-let</a> during the works phase. The Cowgate central Old Town change of use scheme approved under planning reference 26/00645/COU at EH1 1JR is exactly this profile, a 12 to 24 month bridge funds the upper-floor conversion and Scottish short-term lets licensing process, then terms out to trading-business mortgage once an operator EBITDA track record of 12 to 24 months is in place at 60 to 70% LTV with <strong>Cynergy Bank</strong>, Allica Bank, HTB or LendInvest. Edinburgh HMO licensing applies to any three or more unrelated occupants, a wider net than the English five-plus threshold, and Scottish short-term lets licensing is mandatory across the EH1 core.',
       },
@@ -298,7 +298,7 @@ export const areaDetails: Record<string, AreaDetail> = {
           'Up to 65% LTV on prime Charlotte Square Grade A let to financial services or professional tenants. Charlotte Square Georgian townhouse with strong covenants prices best at 60 to 65% LTV at around 6.5 to 7.0% pa with <strong>NatWest</strong>, <strong>Lloyds</strong>, <strong>Barclays</strong>, HSBC UK or <strong>Santander</strong>, with Bank of Scotland, Clydesdale Bank and Virgin Money UK competing on the Scottish-headquartered route. Secondary or vacant Charlotte Square stock caps at 65 to 70% with <strong>Shawbrook</strong> and HTB. The binding constraint is almost always ICR on the rental stack, not headline LTV. LBTT applies at the Scottish non-residential rates on the freehold purchase.',
       },
       {
-        question: "Can we fund a Charlotte Square office-to-boutique-hotel conversion?",
+        question: "Can you arrange finance for a Charlotte Square office-to-boutique-hotel conversion?",
         answer:
           'Yes, through <a href="/services/commercial-bridge-to-let">bridge-to-let</a> during the listed-building works phase. The Charlotte Square Georgian townhouse conversion approved under planning reference 26/01045/COU at EH2 4HQ is exactly this profile, an 18 to 30 month bridge funds the listed-building consent process, conservation works and re-opening, then terms out to trading-business mortgage once an operator EBITDA track record of 12 to 24 months is in place at 60 to 65% LTV with <strong>Cynergy Bank</strong>, Allica Bank, HTB or LendInvest. The security is a standard security registered in the Land Register of Scotland and listed-building consent operates under the Scottish heritage regime.',
       },
@@ -382,7 +382,7 @@ export const areaDetails: Record<string, AreaDetail> = {
           'Up to 65% LTV on prime Haymarket Grade A let to financial services or professional firm tenants. The Haymarket office scheme expansion approved under planning reference 25/02745/FUL at EH12 5HD is exactly this profile, new Grade A let to the wider West End professional services cluster prices best at 60 to 65% LTV at around 6.5 to 7.0% pa with <strong>NatWest</strong>, <strong>Lloyds</strong>, <strong>Barclays</strong>, HSBC UK or <strong>Santander</strong>, with Bank of Scotland, Clydesdale Bank and Virgin Money UK competing on the Scottish-headquartered route. The binding constraint is almost always ICR on the rental stack, not headline LTV. LBTT applies at the Scottish non-residential rates on the freehold purchase.',
       },
       {
-        question: "Can we fund a vacant West End office repositioning?",
+        question: "Can you arrange finance for a vacant West End office repositioning?",
         answer:
           'Yes, through <a href="/services/commercial-bridge-to-let">bridge-to-let</a> during the refurbishment phase. A 12 to 24 month bridge funds acquisition and refurbishment capex on the West End secondary office stock that needed Cat A and Cat B works post-Covid, then terms out to commercial investment mortgage at 65 to 70% LTV with <strong>Shawbrook</strong>, HTB, Cynergy Bank or <strong>LendInvest</strong>. The security is a standard security registered in the Land Register of Scotland.',
       },
@@ -466,7 +466,7 @@ export const areaDetails: Record<string, AreaDetail> = {
           'Up to 70% LTV on prime Princes Street retail let to national tenants. Princes Street central retail with strong national covenants prices best at 60 to 65% LTV at around 6.5 to 7.0% pa with <strong>NatWest</strong>, <strong>Lloyds</strong>, <strong>Barclays</strong>, HSBC UK or <strong>Santander</strong>, with Bank of Scotland, Clydesdale Bank and Virgin Money UK competing on the Scottish-headquartered route. Secondary western Princes Street stock caps at 65 to 75% with <strong>Shawbrook</strong>, HTB and Together. The binding constraint is almost always ICR on the rental stack, not headline LTV. LBTT applies at the Scottish non-residential rates on the freehold purchase.',
       },
       {
-        question: "Can we fund a satellite F&B unit inside St James Quarter?",
+        question: "Can you arrange finance for a satellite F&B unit inside St James Quarter?",
         answer:
           'Yes, the St James Quarter tenant mix reconfiguration approved under planning reference 26/01245/FUL at EH1 3SS underpins exactly this profile. Where the F&B operator takes a freehold or long leasehold stake, the deal funds as a trading-business mortgage on operator EBITDA at 60 to 70% LTV with <strong>Cynergy Bank</strong>, Allica Bank or HTB once a 12 to 24 month track record is established. Where the operator stays on a Nuveen lease, working-capital and fit-out lending sits alongside any operator-side refinance.',
       },
@@ -561,7 +561,7 @@ export const areaDetails: Record<string, AreaDetail> = {
           'Up to 70% LTV on national-covenant let stock. Ocean Terminal leisure and retail post-reconfiguration approved under planning reference 25/02078/FUL at EH6 6JJ prices best at 60 to 65% LTV at around 6.5 to 7.5% pa with <strong>NatWest</strong>, <strong>Lloyds</strong>, <strong>Barclays</strong>, HSBC UK or <strong>Santander</strong>, with Bank of Scotland, Clydesdale Bank and Virgin Money UK competing on the Scottish-headquartered route. Secondary leisure and F&B units cap at 65 to 75% with <strong>Shawbrook</strong>, HTB and Cynergy Bank. The binding constraint is almost always ICR on the rental stack, not headline LTV. LBTT applies at the Scottish non-residential rates on the freehold purchase.',
       },
       {
-        question: "Can we fund a Newhaven waterfront mixed-use scheme?",
+        question: "Can you arrange finance for a Newhaven waterfront mixed-use scheme?",
         answer:
           'Yes, through <a href="/services/commercial-bridge-to-let">bridge-to-let</a> during the lettings phase. The Newhaven mixed-use scheme approved under planning reference 25/01545/FUL at EH6 4ER is exactly this profile, a 12 to 24 month bridge funds the ground-floor lettings campaign post-tram terminus opening, then terms out to commercial investment or blended mixed-use facility at 65 to 75% LTV with <strong>Shawbrook</strong>, HTB, Cynergy Bank or <strong>LendInvest</strong>. The security is a standard security registered in the Land Register of Scotland.',
       },
@@ -640,7 +640,7 @@ export const areaDetails: Record<string, AreaDetail> = {
           'Up to 75% LTV on stabilised Fountainbridge mixed-use post-tenant fit-out. The Fountainbridge regeneration scheme approved under planning reference 26/00712/FUL at EH3 9QH is exactly this profile, blended commercial plus residential prices best at 65 to 70% LTV at around 7.0 to 7.5% pa with <strong>Shawbrook</strong>, HTB, <strong>Cynergy Bank</strong>, Bank of Scotland, Clydesdale Bank or Virgin Money UK on the Scottish-headquartered route. The binding constraint is usually blended ICR on the rental stack, not headline LTV. LBTT applies at the Scottish non-residential or mixed-use rates on the freehold purchase as relevant.',
       },
       {
-        question: "Can we fund a Tollcross theatre, cinema or live music venue freehold?",
+        question: "Can you arrange finance for a Tollcross theatre, cinema or live music venue freehold?",
         answer:
           'Yes, the Tollcross mixed-use regeneration scheme approved under planning reference 25/01812/FUL at EH3 9QY illustrates the entertainment district pipeline directly. Listed and operating venues fund as trading-business mortgages on operator EBITDA at 60 to 70% LTV through <strong>Cynergy Bank</strong>, Allica Bank or HTB once a 24 month track record is in place. Heritage-comfortable lenders <strong>Shawbrook</strong>, Cumberland Building Society and Together carry the listed-building stock at 65 to 70% LTV.',
       },
@@ -1150,7 +1150,7 @@ export const areaDetails: Record<string, AreaDetail> = {
           '<strong>Shawbrook</strong>, Allica Bank, Cambridge & Counties and HTB all run dedicated principal-led dental and medical programmes that take NHS contract value as additional security. LTV to 80% on the bricks plus contract value at 6.0 to 7.5% pa. Bank of Scotland and Clydesdale Bank also active on Scottish-security owner-occupier deals. LBTT applies at the Scottish non-residential bands on the freehold purchase.',
       },
       {
-        question: "Can we fund the BioQuarter Phase 3 expansion captured by 26/01102/FUL?",
+        question: "Can you arrange finance for the BioQuarter Phase 3 expansion captured by 26/01102/FUL?",
         answer:
           'Yes, BioQuarter Phase 3 funds as development finance during the works phase, with bridge-to-let from <strong>LendInvest</strong> common on private-investor plots, then terms out to commercial investment mortgage at 60 to 65% LTV with <strong>NatWest</strong>, <strong>Lloyds</strong>, <strong>Barclays</strong> or <strong>Santander</strong> once life-sciences income is stabilised. Bank of Scotland and Clydesdale Bank are also active on Scottish-security investment files.',
       },

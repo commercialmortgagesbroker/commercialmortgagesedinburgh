@@ -147,8 +147,8 @@ export function Footer() {
             &copy; {new Date().getFullYear()} {SITE_NAME}. All rights reserved.
           </p>
           <p className="mt-2">
-            {SITE_NAME} is part of the Commercial Mortgages network. We are a
-            commercial mortgage broker. Commercial mortgages are unregulated
+            {SITE_NAME} is a trading name of Lenzie Consulting Ltd.
+            Commercial mortgages are unregulated
             lending and fall outside the Financial Conduct Authority&apos;s
             regulated mortgage perimeter. We do not hold FCA authorisation
             because the products we arrange are unregulated. We do not arrange

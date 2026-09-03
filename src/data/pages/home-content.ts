@@ -126,8 +126,8 @@ export const homeContent: HomeContent = {
   },
 
   caseStudies: {
-    eyebrow: "Recent placements",
-    h2: "Real Edinburgh commercial mortgage deals: every finance option, every lender, real numbers.",
+    eyebrow: "Illustrative deal examples",
+    h2: "Illustrative Edinburgh commercial mortgage examples: every finance option, every lender, real-world numbers.",
     items: [
       {
         name: "Edinburgh Park Grade A office investment refinance",
@@ -279,7 +279,7 @@ export const homeContent: HomeContent = {
     {
       question: "Why use an Edinburgh commercial mortgage broker rather than going direct to my own bank?",
       answer:
-        'Two reasons. First, even your strongest high-street relationship prices within their own credit policy, and they do not benchmark you against the rest of the market. We do, every deal, every time. We act as a credit broker, not a lender. Second, the deals high-street desks decline (hotels and hospitality on the Royal Mile, HMO portfolio refinance on Marchmont and Newington, Class 1a plus Class 9 sui generis HMO conversion, semi-commercial, trading-business, stretched LTV, sector-specific covenants, life-sciences laboratory stock at early funding stage) often place comfortably with a Scotland-active challenger or specialist at sensible rates and terms, but you have to know which desk to ring on the day and which lenders lend in Scotland at all. With 250M-plus arranged across a deep range of commercial lenders, that is our entire job as commercial mortgage brokers covering Edinburgh, the Lothians and central Scotland. If looking for a commercial mortgage in Edinburgh and the numbers do not work, we say so up front.',
+        'Two reasons. First, even your strongest high-street relationship prices within their own credit policy, and they do not benchmark you against the rest of the market. We do, every deal, every time. We act as a credit broker, not a lender. Second, the deals high-street desks decline (hotels and hospitality on the Royal Mile, HMO portfolio refinance on Marchmont and Newington, Class 1a plus Class 9 sui generis HMO conversion, semi-commercial, trading-business, stretched LTV, sector-specific covenants, life-sciences laboratory stock at early funding stage) often place comfortably with a Scotland-active challenger or specialist at sensible rates and terms, but you have to know which desk to ring on the day and which lenders lend in Scotland at all. With 400M-plus arranged across a deep range of commercial lenders, that is our entire job as commercial mortgage brokers covering Edinburgh, the Lothians and central Scotland. If looking for a commercial mortgage in Edinburgh and the numbers do not work, we say so up front.',
     },
     {
       question: "Are you a mortgage broker in Edinburgh or a mortgage advisor for Scottish borrowers?",

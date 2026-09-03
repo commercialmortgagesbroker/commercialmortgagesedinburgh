@@ -148,7 +148,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Retail asset types we fund",
+      h2: "Retail asset types we arrange finance for",
       items: [
         { label: "Princes Street and St James Quarter (EH1/EH2)", detail: "The primary retail spine plus Nuveen's flagship St James Quarter scheme. National-multiple covenants dominate the let stock; institutional investment territory on long FRI leases." },
         { label: "George Street and Multrees Walk premium (EH2)", detail: "Premium independents and luxury (Harvey Nichols, Louis Vuitton, Mulberry on Multrees Walk; premium independents and high-end F&B on George Street). Strong covenants, premium rents." },
@@ -225,7 +225,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Office asset types we fund",
+      h2: "Office asset types we arrange finance for",
       items: [
         { label: "Charlotte Square premium townhouse (EH2)", detail: "Listed New Town townhouse offices, the highest small-cap office rents in Scotland. Premium law, asset-management and professional-services occupier base; heritage-comfortable lenders only." },
         { label: "George Street and St Andrew Square (EH2)", detail: "George Street New Town professional-services freeholds and serviced-office spine; St Andrew Square the NatWest Group and abrdn cluster. Premium and institutional stock combined." },
@@ -302,7 +302,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Industrial asset types we fund",
+      h2: "Industrial asset types we arrange finance for",
       items: [
         { label: "Sighthill industrial and commercial estate (EH11)", detail: "The densest single industrial cluster in the city, mid-cap B2/B8 stock plus trade-counter, on the western fringe with M8 access. £300K to £3M unit values typical." },
         { label: "Newbridge mid-and-large-cap industrial (EH28)", detail: "Just outside the city boundary to the west, on the M9/M8 interchange. Mid-and-large-cap industrial and distribution stock; £1M to £8M facility bracket." },
@@ -324,7 +324,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
     },
     lenderAppetite: {
       h2: "Lender appetite for Edinburgh industrial",
-      body: 'Strong across the asset class, one of the most competitive lender pools of any sector even given the smaller absolute volume. <strong>NatWest</strong>, <strong>Lloyds</strong>, Bank of Scotland, <strong>Barclays</strong> and <strong>Santander</strong> all compete on prime let industrial at Sighthill, Newbridge and the airport fringe at 6.5 to 7.5% pa, 65 to 75% LTV with strong covenants. Larger institutional B8 sheds above £5M facility size often route through Lloyds Real Estate Banking or Barclays Corporate Real Estate, the Glasgow desks cover most Edinburgh industrial deals. Clydesdale Bank / Virgin Money UK (Glasgow HQ, Edinburgh-active across SME and mid-market) is a notable Scottish challenger active on industrial owner-occupier. Allica Bank, <strong>Shawbrook</strong>, HTB, YBS Commercial and Cambridge & Counties dominate mid-market and owner-occupier industrial at 6.5 to 7.75% pa. <strong>InterBay Commercial</strong>, Together and Aldermore take the multi-let and value-add cases at 7.5 to 8.25% pa. Owner-occupier industrial enjoys best-in-class pricing of any sector, 6.0 to 7.25% pa for SMEs with two years\' clean accounts, EBITDA cover 1.3 to 1.5x. The Central Belt labour-shed dynamic means underwriters routinely pull comparables from Livingston, Bathgate and Glasgow.',
+      body: 'Strong across the asset class, one of the most competitive lender pools of any sector even given the smaller absolute volume. <strong>NatWest</strong>, <strong>Lloyds</strong>, Bank of Scotland, <strong>Barclays</strong> and <strong>Santander</strong> all compete on prime let industrial at Sighthill, Newbridge and the airport fringe at 6.5 to 7.5% pa, 65 to 75% LTV with strong covenants. Larger institutional B8 sheds above £5M facility size often route through Lloyds Real Estate Banking or Barclays Corporate Real Estate, the Glasgow desks cover most Edinburgh industrial deals. Clydesdale Bank / Virgin Money UK (Glasgow HQ, Edinburgh-active across SME and mid-market) is a notable Scottish challenger active on industrial owner-occupier. Allica Bank, <strong>Shawbrook</strong>, HTB, YBS Commercial and Cambridge & Counties dominate mid-market and owner-occupier industrial at 6.5 to 7.75% pa. <strong>InterBay Commercial</strong>, Together and Aldermore take the multi-let and value-add cases at 7.5 to 8.25% pa. Owner-occupier industrial prices sharper than most other sectors, 6.0 to 7.25% pa for SMEs with two years\' clean accounts, EBITDA cover 1.3 to 1.5x. The Central Belt labour-shed dynamic means underwriters routinely pull comparables from Livingston, Bathgate and Glasgow.',
     },
     faqs: [
       {
@@ -379,7 +379,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Leisure and hospitality assets we fund",
+      h2: "Leisure and hospitality assets we arrange finance for",
       items: [
         { label: "Old Town and Royal Mile heritage hospitality (EH1)", detail: "Hotels and pubs in the World Heritage Old Town spine, listed and conservation-area stock. Heritage-comfortable lenders only; tightest covenants on Festival-week trading record." },
         { label: "Charlotte Square boutique hotels (EH2)", detail: "Premium boutique hotels in listed New Town townhouse stock (Kimpton Charlotte Square, Gleneagles Townhouse). Heritage-comfortable lenders; institutional-grade independents." },
@@ -461,7 +461,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Healthcare and care home assets we fund",
+      h2: "Healthcare and care home assets we arrange finance for",
       items: [
         { label: "Elderly residential and nursing care home", detail: "The core sector. Edinburgh self-funded fee mix is among the highest in Scotland, supporting strong fee rates and EBITDA. Care Inspectorate grade is the lead variable." },
         { label: "Specialist care (learning disability, dementia, mental health)", detail: "Higher-fee per-bed economics, often with local-authority block contract income. Care Inspectorate grade and contract counterparty both matter." },
@@ -543,7 +543,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Pub and restaurant assets we fund",
+      h2: "Pub and restaurant assets we arrange finance for",
       items: [
         { label: "Old Town Grassmarket and Cowgate (EH1)", detail: "Heritage pubs and restaurants in the World Heritage Old Town. Listed and conservation-area stock; heritage-comfortable specialist licensed-trade lenders only." },
         { label: "Royal Mile and Victoria Street (EH1)", detail: "Listed historic pubs and restaurants on the Old Town spine. Deep tourism footfall plus Festival-week peaks; premium operator track record matters." },
@@ -625,7 +625,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "MOT, garage and forecourt assets we fund",
+      h2: "MOT, garage and forecourt assets we arrange finance for",
       items: [
         { label: "MOT test centre", detail: "VOSA-approved test stations, owner-operator or operator-let. VOSA station approval status and authorised examiner credentials are credit conditions." },
         { label: "Independent service garage", detail: "Service, repair and MOT combined. Owner-occupier dominated, £250K to £1.5M facility bracket. EBITDA-led with VOSA overlay where applicable." },
@@ -707,7 +707,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Nursery and school assets we fund",
+      h2: "Nursery and school assets we arrange finance for",
       items: [
         { label: "Day nursery freehold (under-5)", detail: "The core sector. Owner-operator dominated. Care Inspectorate registration and grades drive the deal. Edinburgh family-suburb catchments support premium fee rates." },
         { label: "After-school club and out-of-school care", detail: "Care Inspectorate registered out-of-school provision. Smaller-scale, often attached to nursery freehold or run from school premises." },
@@ -789,7 +789,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Mixed-use assets we fund",
+      h2: "Mixed-use assets we arrange finance for",
       items: [
         { label: "Quartermile mixed office, residential and academic (EH3)", detail: "The former Royal Infirmary site, anchored by the Edinburgh Futures Institute (opened 2024). Modern institutional-scale mixed stock; plot-by-plot refinance pipeline." },
         { label: "Edinburgh BioQuarter mixed-use (EH16)", detail: "Life-sciences cluster at Little France combining clinical, educational, residential and commercial. NHS Lothian / University of Edinburgh / Scottish Enterprise / City of Edinburgh JV." },
@@ -866,7 +866,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Semi-commercial assets we fund",
+      h2: "Semi-commercial assets we arrange finance for",
       items: [
         { label: "Shop with flat above (Leith Walk, Tollcross, Bruntsfield)", detail: "The staple Edinburgh semi-commercial archetype. Ground-floor retail or F&B with one or two tenement flats above. LTV to 75% on the right blended profile." },
         { label: "Marchmont shop with HMO-licensed flat", detail: "Shop-and-flat block where the residential element is HMO-licensed for student occupants. Edinburgh HMO licence overlay applies (three-plus unrelated occupants triggers mandatory licensing)." },
@@ -944,7 +944,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "HMO assets we fund",
+      h2: "HMO assets we arrange finance for",
       items: [
         { label: "Marchmont and Southside student HMO (EH9)", detail: "The densest single HMO cluster in Edinburgh, student-let tenement flats around the University of Edinburgh main campus. 3 to 8 bed configurations dominate." },
         { label: "Tollcross student-and-professional HMO (EH3)", detail: "Mixed student-and-professional HMO at the Old Town fringe. Mid-range tenement stock; strong year-round demand." },
@@ -1027,7 +1027,7 @@ export const assetTypeDetails: Record<string, AssetTypeDetail> = {
       ],
     },
     schemeTypes: {
-      h2: "Holiday-let portfolio assets we fund",
+      h2: "Holiday-let portfolio assets we arrange finance for",
       items: [
         { label: "Single-asset FHL", detail: "Single property let on FHL basis, typically a central Old Town or New Town short-let. Routes through specialist BTL with FHL product rather than portfolio facility." },
         { label: "FHL portfolio (3-plus properties)", detail: "Aggregated portfolio facility for 3-plus FHLs across Edinburgh. DSCR-led, blanket-charge or property-by-property structure. STL licence required on every property." },

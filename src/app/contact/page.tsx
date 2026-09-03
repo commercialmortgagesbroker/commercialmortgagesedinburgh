@@ -202,6 +202,23 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
+
+      {/* Regulatory disclosure */}
+      <section className="bg-white py-8">
+        <div className="mx-auto max-w-3xl px-4 text-center text-xs leading-relaxed text-gray-500 lg:px-8">
+          <p>
+            {siteConfig.name} is a trading name of Lenzie Consulting Ltd.
+            Commercial mortgages are unregulated lending and fall outside the
+            Financial Conduct Authority&apos;s regulated mortgage perimeter.
+            We do not hold FCA authorisation because the products we arrange
+            are unregulated. We do not arrange residential mortgages,
+            regulated bridging, regulated semi-commercial mortgages or any
+            other product that requires FCA permission. Where a deal would
+            require FCA authorisation we refer the enquiry to a regulated
+            firm.
+          </p>
+        </div>
+      </section>
     </>
   );
 }
